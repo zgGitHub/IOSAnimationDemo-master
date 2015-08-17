@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>06780A99-B6E6-4D14-994B-173CA62790BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>侧滑菜单</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>e3734b2e-0863-4113-8841-728d912b9ca7++2336</key>
+		<string>svn://10.8.155.20/zz1507/%25E8%25AF%25BE%25E5%2589%258D%25E5%2588%2586%25E4%25BA%25AB</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IOS动画总结/IOSAnimationDemo-master/侧滑菜单/侧滑菜单.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>e3734b2e-0863-4113-8841-728d912b9ca7++2336</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>e3734b2e-0863-4113-8841-728d912b9ca7++2336</key>
+		<string>svn://10.8.155.20</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://10.8.155.20/zz1507/%25E8%25AF%25BE%25E5%2589%258D%25E5%2588%2586%25E4%25BA%25AB/IOS%E5%8A%A8%E7%94%BB%E6%80%BB%E7%BB%93/IOSAnimationDemo-master/%E4%BE%A7%E6%BB%91%E8%8F%9C%E5%8D%95/%E4%BE%A7%E6%BB%91%E8%8F%9C%E5%8D%95.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>e3734b2e-0863-4113-8841-728d912b9ca7++2336</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>e3734b2e-0863-4113-8841-728d912b9ca7++2336</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E8%AF%BE%E5%89%8D%E5%88%86%E4%BA%AB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
